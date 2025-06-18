@@ -1,5 +1,8 @@
 # [SIGMOD 2025] SymphonyQG: Towards Symphonious Integration of Quantization and Graph for Approximate Nearest Neighbor Search
 
+## Notice
+* SymphonyQG has been implemented in our [RaBitQ-Library](https://github.com/VectorDB-NTU/RaBitQ-Library). This repo will be archived soon.
+
 ## Prerequisites
 * AVX512 is required
 * For details, please refer to our [technical report](https://arxiv.org/abs/2411.12229).
